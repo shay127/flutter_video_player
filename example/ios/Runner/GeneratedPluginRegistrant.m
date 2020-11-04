@@ -4,10 +4,10 @@
 
 #import "GeneratedPluginRegistrant.h"
 
-#if __has_include(<video_player/FLTVideoPlayerPlugin.h>)
-#import <video_player/FLTVideoPlayerPlugin.h>
+#if __has_include(<flutter_video_player/FLTVideoPlayerPlugin.h>)
+#import <flutter_video_player/FLTVideoPlayerPlugin.h>
 #else
-@import video_player;
+@import flutter_video_player;
 #endif
 
 @implementation GeneratedPluginRegistrant
