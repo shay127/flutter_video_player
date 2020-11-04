@@ -147,7 +147,7 @@
     },
     {
       "name": "video_player_platform_interface",
-      "rootUri": "file:///Users/dadosh/dev/flutter/.pub-cache/hosted/pub.dartlang.org/video_player_platform_interface-2.2.0",
+      "rootUri": "../../video_player_platform_interface",
       "packageUri": "lib/",
       "languageVersion": "2.8"
     },
@@ -158,7 +158,7 @@
       "languageVersion": "2.8"
     }
   ],
-  "generated": "2020-11-03T18:05:57.397071Z",
+  "generated": "2020-11-04T08:42:25.744091Z",
   "generator": "pub",
   "generatorVersion": "2.10.3"
 }

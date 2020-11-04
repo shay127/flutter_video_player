@@ -166,9 +166,9 @@ packages:
   video_player_platform_interface:
     dependency: "direct main"
     description:
-      name: video_player_platform_interface
-      url: "https://pub.dartlang.org"
-    source: hosted
+      path: "../video_player_platform_interface"
+      relative: true
+    source: path
     version: "2.2.0"
 sdks:
   dart: ">=2.10.0-110 <2.11.0"
